@@ -1,0 +1,9 @@
+# Recursion
+A function calling iteself to solve smaller problem.
+
+1. Base Case - terminatting condition
+2. Recursive call - recursive function recurvisley involve itself on the smaller problem.
+3. Small Calculation - we perform one calculation step before/after each recursive call.
+
+
+   
